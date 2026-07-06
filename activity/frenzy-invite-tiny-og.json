@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "Here's an invite from Chris",
+  "content": "Invite artwork is supplied as a deliberately tiny Open Graph image.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/frenzy-invite-tiny-og/"
+}

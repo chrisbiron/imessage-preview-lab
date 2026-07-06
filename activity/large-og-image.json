@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "Large Image Preview",
+  "content": "This page uses a 1200 by 630 og:image plus icon metadata.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/large-og-image/"
+}

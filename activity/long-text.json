@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "A deliberately long Open Graph title for measuring exactly where Messages decides to truncate preview text on different devices",
+  "content": "This description is intentionally verbose so the preview can reveal whether ordinary pages show body copy, how many lines are retained, and where the text is cut off inside the Messages bubble.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/long-text/"
+}

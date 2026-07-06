@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "Square Video Preview",
+  "content": "The og:video asset is a 640 by 640 MP4 so you can compare square video treatment in Messages.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/square-og-video/"
+}

@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "Inline Video Preview",
+  "content": "The og:video and twitter:player:stream tags point directly to a playable MP4 asset.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/direct-og-video/"
+}

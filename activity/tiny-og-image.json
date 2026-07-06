@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "Tiny Image Experiment",
+  "content": "Apple notes that images under 150 px wide may be ignored or presented as icons.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/tiny-og-image/"
+}

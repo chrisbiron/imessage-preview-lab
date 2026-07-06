@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "3:1 Video Preview",
+  "content": "The og:video asset is a 960 by 320 MP4 so you can compare extra-wide video treatment in Messages.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/three-to-one-og-video/"
+}

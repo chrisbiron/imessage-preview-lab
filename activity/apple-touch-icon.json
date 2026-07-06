@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "Icon-Only Preview",
+  "content": "A square Apple touch icon is available without an Open Graph image.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/apple-touch-icon/"
+}

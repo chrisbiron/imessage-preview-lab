@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "Fallback HTML Title",
+  "content": "A favicon-only social preview with no image.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/html-title-favicon/"
+}

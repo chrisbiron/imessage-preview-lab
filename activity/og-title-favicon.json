@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "name": "Short OG Title",
+  "content": "Description exists in metadata, but Messages may not show it for ordinary pages.",
+  "url": "https://chrisbiron.github.io/imessage-preview-lab/preview/og-title-favicon/"
+}
